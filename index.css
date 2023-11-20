@@ -1,0 +1,38 @@
+body {
+    background-image: ;
+}
+
+header {
+   background-color: rgb(72, 98, 142); 
+   margin: 0 auto;
+   text-align: center;
+   color: rgb(225, 241, 255);
+   border-radius: 25px;
+   font-family: "Oswald", sans-serif;
+   max-width: 90%
+}
+
+#content {
+    background-color: rgb(225, 241, 255);
+    color: rgb(72, 98, 142);
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    max-width: 90%;
+    border-radius: 15px;
+}
+
+#calc-btn {
+    border-radius: 11px;
+    background-color: rgb(72, 98, 142);
+    color: rgb(225, 241, 255);
+    border-color: rgb(72, 98, 142);
+}
+
+#calc-btn:hover {
+    background-color: white;
+}
+
+#message {
+    color: darkblue;
+}
