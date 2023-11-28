@@ -1,5 +1,11 @@
 body {
-    background-image: ;
+    background-image: url(diana-polekhina-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+input {
+    border: none;
 }
 
 header {
@@ -20,17 +26,21 @@ header {
     margin: auto;
     max-width: 90%;
     border-radius: 15px;
+    padding: 10px;
 }
 
 #calc-btn {
-    border-radius: 11px;
+    border-radius: 20px;
     background-color: rgb(72, 98, 142);
     color: rgb(225, 241, 255);
-    border-color: rgb(72, 98, 142);
+    border: none;
+    width: 30px;
+    height: 30px;
 }
 
 #calc-btn:hover {
     background-color: white;
+    color: rgb(72, 98, 142);
 }
 
 #message {
