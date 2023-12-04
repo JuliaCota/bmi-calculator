@@ -6,6 +6,8 @@
 This project was a recommendation of begginer projects on the <a href="https://emeritus.org/blog/coding-javascript-project-ideas/">Emeritus</a> website.
 This application is a program that allows users to calculate their BMI by input their height (in cm) and weight (in kg).
 
+It's part of the personal project 23 projects of 2023
+
 <h3>Languages</h3>
 
 - HTML
