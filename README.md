@@ -3,6 +3,8 @@
 
 <h3>Summary</h3>
 
+You can see this project deployed <a href="https://curious-cobbler-4a37e6.netlify.app">here</a>.
+
 This project was a recommendation of begginer projects on the <a href="https://emeritus.org/blog/coding-javascript-project-ideas/">Emeritus</a> website.
 This application is a program that allows users to calculate their BMI by input their height (in cm) and weight (in kg).
 
